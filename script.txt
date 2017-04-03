@@ -1,0 +1,455 @@
+﻿:: Start
+Hello! How are you doing?
+
+[[bad]]
+[[good, how are you]]
+[[good]]
+
+
+
+:: Untitled Passage 1 [class cafeteria gym]
+I'm glad to hear that! Where do you want to g today?
+
+
+:: Untitled Passage 4
+
+
+
+:: the gym
+Welcome to the gym!!
+
+You walk into the gym. There are a group of kids about to play a game of basketball. You want to join them. What do you do?
+
+[[you walk over and say "i want to play!"]]
+[[you dont do anything, you dont think your good enough to play]]
+[[you walk over and say "hey guys, could i join your game?"]]
+[[you dont do anything, you dont know anyone playing]]
+
+
+:: you dont do anything, you dont know anyone playing
+The only way to make new friends is to talk to new people. You should go back over there and ask to join the game! You'll make some new friends!
+
+yes, [[you walk over and say "hey guys, could i join your game?"]]
+
+
+:: you walk over and say "hey guys, could i join your game?" [point]
+Perfect, this is a great way to join a game.
+
+They welcome you to play and ask your name. What so you say?
+
+[[my name is ----. What are your guys names?]]
+[[my name is ---]]
+[[uh, why does it matter?]]
+
+
+:: you walk over and say "i want to play!"
+Your putiing yourself out there, but the group of kids probably be more likely to welcome you if you greet them and ask to join. 
+
+sounds goo [[you walk over and say "hey guys, could i join your game?"]]
+
+
+:: you dont do anything, you dont think your good enough to play
+The only way to get better is practice. You should play and work on your skills. You might even score a 3-pointer! The best way to do this wold be to ask to join the game. 
+
+yes, [[you walk over and say "hey guys, could i join your game?"]]
+
+
+:: You shout out the answer because you know it right away.
+Even though you know the answer, it is important to give your classmates a chance to think of the answer too, so it is best to raise your hand. 
+
+Okay, this makes sense, [[You raise your hand and wait to be called on.]]
+
+
+:: You raise your hand and wait to be called on. [point]
+Perfect! You are participating, but also giveing everyone a chance to think of the answer themselves. The teacher calls on you and you get it right, great job!
+
+In a little while, you see the person next to you playing with their phone. It is a super cool game so you want to watch, but the teacher is still teaching. What do you do?
+
+[[Keep watching the phone game, it is so exciting!]]
+
+[[Look away and pay attention to the teacher.]]
+
+[[You get up and move closer to the person playing the phone game because you have to get a better view.]]
+
+
+:: You know the answer, but you don't answer because you're tired today
+It's okay to be tired sometimes, everybody is, but when you know the answer, it is great to raise your hand and participate. 
+
+Okay, this makes sense, [[You raise your hand and wait to be called on.]]
+
+
+:: Untitled Passage 5
+
+
+
+:: StoryTitle
+Untitled Story
+
+
+:: Untitled Passage 2
+
+
+
+:: bad
+I'm sorry to hear that! i hope you feel better! where do you want to go?
+
+[[the cafeteria]]
+[[the gym]]
+[[class]]
+
+
+:: class
+Welcome to class!!!
+
+When class starts, you sit down in your seat. The teacher starts teaching about your favorite subject. You know all about it. The teacher asks the class a question and you know the answer. What do you do?
+
+[[You raise your hand and wait to be called on.]]
+
+[[You shout out the answer because you know it right away.]]
+
+[[You know the answer, but you don't answer because you're tired today]]
+
+
+:: You get up and move closer to the person playing the phone game because you have to get a better view.
+This wouldn't be the best thing to do because you are getting into their personal space and not paying attention to the teacher. It would be better to stay in your seat and pay attention.
+
+Sounds good, so you [[Look away and pay attention to the teacher.]]
+
+
+:: Look away and pay attention to the teacher. [point]
+Great job! You are paying attention now and can ask your classmate about the game later. 
+
+Now the teacher is talking about outer space, which you know all about. The teacher asks a question and calls on someone else this time. They answer the question, but you know that they're wrong. What do you do?
+
+[[You raise your hand to help explain it in a way that doesn't hurt anyone's feelings.]] 
+
+[[You shout out that they're wrong, after all, the only way they can learn is if they know they're wrong.]]
+
+
+
+
+:: Keep watching the phone game, it is so exciting!
+This is very tempting, but if you paid attention to the teacher, it would be much more respectful and you could learn a lot!!
+
+Sounds good, so you [[Look away and pay attention to the teacher.]]
+
+
+:: uh, why does it matter?
+It matters because you are meeting new people and are about to play a game with them, so you will need to be able to communicate. 
+
+okay, insead i say [[my name is ----. What are your guys names?]]
+
+
+:: my name is ----. What are your guys names? [point]
+Perfect!! you introduced yourself and also led them to introduce themselves. now you start playing. Its a great game and you are getting better every play. 
+
+A while into the game someone fouls you. What do you do?
+
+[[you take your free throws and keep playing]]
+[[you leave the game, these people clearly dont want you to play with them, so they fouled you]]
+[[you start yelling at them. they fouled you so they deserve it. ]]
+
+
+
+
+:: StoryAuthor
+Kinga Hope Csikszentmihalyi
+
+
+:: Untitled Passage 3
+
+
+
+:: good
+I'm glad to hear that! Where do you want to go today?
+
+[[the cafeteria]]
+[[class]]
+[[the gym]]
+
+
+
+:: the cafeteria
+Welcome to the Cafeteria!!
+
+When you get to the cafeteria, you see that all the chairs are take except at a table with the new kid who is sitting alone. You walk over to the table and sit down. What do you say? 
+
+[[Nothing, you just eat your lunch. ]]
+
+[[You introduce yourself and ask them what their name is and what their favorite topics are.]]
+
+[[You introduce yourself and then start talking about you favorite topic]]
+
+
+:: my name is ---
+This is good, but it would be easier to play if you knew their nemes too. 
+
+thats true, instead i should say [[my name is ----. What are your guys names?]]
+
+
+:: You raise your hand to help explain it in a way that doesn't hurt anyone's feelings. [point]
+Perfect. You helped someone learn and made them feel fine about it. Great job!
+
+After a little while, the popular boy sitting behind you whispers that you should throw a pencil at the boy in fron of you. What do you do?
+
+[[You throw the pencil, ovbiously, because you want to be firnds with the boy who asked you.]]
+
+[[You ignore him and keep listenting to the teacher.]]
+
+[[You turn around and throw the pencil at the boy who asked because it was mean of him to ask you to do that.]]
+
+
+:: You shout out that they're wrong, after all, the only way they can learn is if they know they're wrong.
+It is true that it is good for them to learn, but saying it in this way will hurt their feelings and might make it so they don;t want to be friends with you. It would be better to explain it nicely. 
+
+Okay, this makes sense [[You raise your hand to help explain it in a way that doesn't hurt anyone's feelings.]]
+
+
+
+:: good, how are you [point]
+I'm doing well, thanks for asking!! Where do you want to go today?
+
+[[the cafeteria]]
+[[the gym]]
+[[class]]
+
+
+
+:: You introduce yourself and ask them what their name is and what their favorite topics are. [point]
+This is great! you have made a new friend and have given them the chance to talk about themselves so you can talk about things that you both love. 
+
+Your new friend asks you if you like computer games, but you are in the middle of a bite of your sandwich. What do you do? 
+
+[[you answer right away. Even though your maouth is full of food, computer games are super exciting.]]
+
+[[you gesture that your mouth is full, finish swallowing your food, and then answer them politely before taking another bite. ]]
+
+[[you do not answer because your mouth is full of food]]
+
+
+:: Nothing, you just eat your lunch. 
+The only way to make new friends is to talk to new people. This person probably wants to make a new friend too, so you should start a conversation.
+
+That makes sense, so [[You introduce yourself and ask them what their name is and what their favorite topics are.]]
+
+
+:: You introduce yourself and then start talking about you favorite topic
+It is great that you introduced yourself, but it would be even better if you asked them about themself and find out the topics that he or she likes.
+
+Okay, that makes sense, [[You introduce yourself and ask them what their name is and what their favorite topics are.]]
+
+
+:: you leave the game, these people clearly dont want you to play with them, so they fouled you
+Even though you might feel this way, fouling is part of basketball and it was an accident. You should take your free throws and keep playing. 
+
+yu agree, instead, [[you take your free throws and keep playing]]
+
+
+:: you take your free throws and keep playing [point]
+Great!! You know that getting fouled is part of the game and you even make your free throws!! 
+
+You finish the game and you team wins! congrats! what do you do?
+
+[[shout out that you are better than the other team, after all, you won]]
+[[congradulate your team and then go over and shake hands with the other team, everyone played a great game]]
+[[just leave, the game is over]]
+
+
+
+:: you start yelling at them. they fouled you so they deserve it. 
+This is not he right thing to do. Fouling is part of the game and it was an accident. Getting mad wont help anything, so you should take your free throws and keep playing. 
+
+okay, that makes sense. instead, [[you take your free throws and keep playing]]
+
+
+:: You turn around and throw the pencil at the boy who asked because it was mean of him to ask you to do that.
+It was rude of him to ask you to do that, and great job not doing what he asked, but violence is never the answer and you will get in trouble. It is best to ignore him. 
+
+Okay, makes sense, [[You ignore him and keep listenting to the teacher.]]
+
+
+:: You ignore him and keep listenting to the teacher. [point]
+Nice job, this is the perfect response. You aren't mean or violent to anybody and get to keep learning from your teacher. 
+
+Now, you have to go to the bathroom. In your school, you have to raise you hand to ask, but you really have to go now! What do you do?
+
+[[You get up and run to the bathroom.]]
+
+[[You shout out "I reallly need to go to the bathroom!" so the teacher knows]]
+
+[[You keep your hand raised, and if it is really an emergency you use your voice to get the attention of your teacher in a quiet way]]
+
+
+:: You throw the pencil, ovbiously, because you want to be firnds with the boy who asked you.
+By doing this, you could hurt the boy in front of you and will lose him as a friend. The boy who asked you to do this is not being kind by asking you to do this and should not be someone you want to be friends with. It would be best to ignore him. 
+
+Oka, makes sense, [[You ignore him and keep listenting to the teacher.]]
+
+
+:: just leave, the game is over
+These people welcomed you to their game and played hard, so it would be better to coongradulate everyone. 
+
+i see that, instead i [[congradulate your team and then go over and shake hands with the other team, everyone played a great game]]
+
+
+:: congradulate your team and then go over and shake hands with the other team, everyone played a great game [point]
+perfect, you can celebrate your hardwork and the otherteams hardwork. even though you won and should feel proud, this is the perfect thing to do to make everyone feel good. 
+
+Now everyone is leaving. What do you do?
+
+[[you leave too, the game is over so you should just leave]]
+[[you try to convince people to stay, even though they have other places to go, and when they say no, you get mad]]
+[[you say bye to all your new friends and suggest a future game of basket ball. then you leave also]]
+
+
+:: You get up and run to the bathroom.
+It is important to get to the bathroom, but it is also important to let your teacher know where you are going to he or she doesn't worry. 
+
+Okay, makes sense, [[You keep your hand raised, and if it is really an emergency you use your voice to get the attention of your teacher in a quiet way]]
+
+
+:: You keep your hand raised, and if it is really an emergency you use your voice to get the attention of your teacher in a quiet way [point]
+This is perfect, you are quietly getting the attention of your teacher, so they know where you are, you aren't making a scene, and you get to the bathroom on time.
+
+Now the bell rings, signaling the end of class. Where do you want to go next?
+
+[[the gym]]
+
+[[the cafeteria]]
+
+
+:: You shout out "I reallly need to go to the bathroom!" so the teacher knows
+Even if it is an emergency, the whole class doesn't want to know that you have to go. It would be better to quietly get you teacher's attention.
+
+Sounds good, so [[You keep your hand raised, and if it is really an emergency you use your voice to get the attention of your teacher in a quiet way]]
+
+
+:: Untitled Passage 6
+
+
+
+:: shout out that you are better than the other team, after all, you won
+This could hurt the feelings of the other team. Even though you won, they played hard and shouldn't be made fun of. It would be better if you congradulated your team and then shook hands with the other team. 
+
+that sounds fair, i will [[congradulate your team and then go over and shake hands with the other team, everyone played a great game]]
+
+
+:: you answer right away. Even though your maouth is full of food, computer games are super exciting.
+Computer games are exciting, but it is not good manners to talk with your mouth full. 
+
+you [[you gesture that your mouth is full, finish swallowing your food, and then answer them politely before taking another bite. ]]
+
+
+:: you gesture that your mouth is full, finish swallowing your food, and then answer them politely before taking another bite.  [point]
+This is perfect! You have acknowledged the question and responded politely, great job!!
+
+You find out that your friend has the same favorite phone game as you. He pulls out his phone to play it with you. You lean in close to see the phone but you see him backing away. What do you do?
+
+[[You lean in even closer because you want to see the game.]]
+[[You realize that you are too close and you take a step back.]]
+
+
+:: you do not answer because your mouth is full of food
+Although that it is great that you are not talking with your mouth full, it is important to let your friend know that you heard him or her and answer once you have swallowed. 
+
+Sounds good, [[you gesture that your mouth is full, finish swallowing your food, and then answer them politely before taking another bite. ]]
+
+
+:: You give them a hihg five.
+
+
+
+:: you say bye to all your new friends and suggest a future game of basket ball. then you leave also [point]
+Perfect, you are letting everyone you met know that you want to play again, but you also know that the game is over and you have places to be. 
+
+Where do you want to go next?
+
+[[class]]
+[[the cafeteria]]
+
+
+:: you leave too, the game is over so you should just leave
+Yes, the game is over, but if you want to play with them again, you should play future plans.  
+
+that makes sense, instead, [[you say bye to all your new friends and suggest a future game of basket ball. then you leave also]]
+
+
+:: you try to convince people to stay, even though they have other places to go, and when they say no, you get mad
+Even though you had fun, people are busy and you cant play basketball all day. You definitly want to play with them some more another time and should tell them that, but getting mad wont make them want to play again. 
+
+okay, i see that, instead, [[you say bye to all your new friends and suggest a future game of basket ball. then you leave also]]
+
+
+:: You yourself and ask them what their name is.
+
+
+
+:: You realize that you are too close and you take a step back. [point]
+Great job! You saw that you were too close and backed up, which is the right thing to do. 
+
+The bell starts ringing, signaling the end of lunch. Your new friend suggests that you guys hang out some other time to finish your game. How do you respond?
+
+[[No, you like to play computer games alone.]]
+
+[[You say yes, that'd be great, and then head to class.]]
+
+[[You say yes and then give them your email so you can plan when to play.]]
+
+
+:: You lean in even closer because you want to see the game.
+When someone leans back, this means that you are too close. The best thing to do is to back up.
+
+Makes sense, [[You realize that you are too close and you take a step back.]]
+
+
+:: You say yes and then give them your email so you can plan when to play. [point]
+This is the perfect response. You can now plan the playdate for the future. 
+
+It is now time to go. To say goodbye to you new friend, what do you do?
+
+[[You give them a high five.]]
+
+[[You give them a hug.]]
+
+[[Nothing, you just walk away.]]
+
+
+
+:: You say yes, that'd be great, and then head to class.
+It is great that you want to have a playdate and it is important to get to class, but to actually have the playdate, you have to be able to plan it later.
+
+Sounds good, so [[You say yes and then give them your email so you can plan when to play.]]
+
+
+:: No, you like to play computer games alone.
+Even though you like to play computer games alone, it is good to try new things. This new friend would like to hang out with you, so the most polite thing to do would be to accept the offer and plan for the future.
+
+That makes sense, [[You say yes and then give them your email so you can plan when to play.]]
+
+
+:: Untitled Passage 7
+
+
+
+:: You give them a high five. [point]
+This is perfect. You have ended the lunch politely without invading their personal space. Great job!
+
+Lunch is over, where do you want to go to now?
+
+[[class]]
+[[the gym]]
+
+
+
+:: You give them a hug.
+Giving a hug to someone is great when you know them well and have asked them, but when you first meet someone, it can make them feel uncomfortable. 
+
+Okay, so [[You give them a high five.]]
+
+
+:: Nothing, you just walk away.
+This is okay, but usually it is good to have a goodbye because this lets your friend know that you have had a great lunch with him. 
+
+Okay, that makes sense, [[You give them a high five.]]
+
+
